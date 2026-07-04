@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CatNow.aternos.me",
+    "ip": "cardinalfish.aternos.host",
     "port": 55518,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
