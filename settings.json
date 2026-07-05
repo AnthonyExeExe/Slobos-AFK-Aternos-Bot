@@ -34,7 +34,7 @@
     "max-reconnect-delay": 15000
   },
   "movement": {
-    "enabled": true
+    "enabled": false
   },
   "modules": {
     "avoidMobs": false,
